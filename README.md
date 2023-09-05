@@ -19,7 +19,7 @@ Installation
 
 Clone the project
 
-        gitclone 
+        gitclone https://github.com/crescenciolima/LP1_2023_2.git
 
 Contributors
 ---------------------------
